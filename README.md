@@ -1,1 +1,3 @@
-# randomizer
+This project was supposed to be a random name picker, but due to first some technical difficulties and second another really close family passing i had to conjure up something much simpler. I did not advise james or jide whats going on in my personal life in the duration of project week. I took it upon myself to have something to hand in even through these difficult few days of my life. 
+
+This project is a tip calculator for a restaurant bill, you enter the total bill. then you have a dropdown menu asking how you rated the service. then it asks you how many people is the bill being split by. the final answer at the end is the amount extra on top of the bill that each person has to give - the tip.
